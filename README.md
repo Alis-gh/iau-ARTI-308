@@ -1,2 +1,3 @@
-# ARTI-308-
-This repository is for ARTI 308
+#this is a demo for ARTI 308
+
+will be modife later 
