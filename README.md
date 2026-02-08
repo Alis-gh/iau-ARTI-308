@@ -1,3 +1,14 @@
-# this is a demo for ARTI 308
+# ARTI-308: Machine Learning Labs
 
-will be modife later 
+This repository is part of the **ARTI 308 – Machine Learning** course.
+
+## Owner
+**Ali Alghadeer**
+
+## Description
+This repository is used throughout the course to document the **weekly lab work**.
+
+## Contents
+- Machine Learning labs  
+- Course assignments  
+
