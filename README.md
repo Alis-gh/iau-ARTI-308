@@ -1,3 +1,9 @@
-# this is a demo for ARTI 308
+# Machine Learning (ARTI-308) Labs Repository
 
-will be modife later 
+This repository contains lab assignments for the Machine Learning course.
+
+## Branches
+- lab1: Lab 1 submission
+- lab2: Lab 2 submission
+
+Each lab is organized in a separate branch.
