@@ -1,4 +1,6 @@
-# Assignment 2 – Steam Games Dataset
+# Lab2 2 
+
+#Steam Games Dataset
 
 ## Dataset Summary
 This project uses a Steam games dataset collected from the Steam platform.
