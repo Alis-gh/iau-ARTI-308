@@ -5,10 +5,6 @@ This repository is part of the **ARTI 308 – Machine Learning** course.
 ## Owner
 **Ali Alghadeer**
 
-## Description
-This repository is used throughout the course to document the **weekly lab work**.
-
-## Contents
-- Machine Learning labs  
-- Course assignments  
-
+## Lab Objective
+The objective of this lab is to create a GitHub account and set up a repository
+with a README file.
