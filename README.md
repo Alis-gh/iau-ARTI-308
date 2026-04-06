@@ -1,22 +1,28 @@
-# Lab2 2 
+# ARTI308 – Lab 6: Linear Regression
 
-# Steam Games Dataset
+## Overview
+This lab demonstrates the use of **Linear Regression** to analyze customer behavior using the **Ecommerce Customers** dataset.  
+The main objective is to build a predictive model for **Yearly Amount Spent** based on various user activity features.
 
-## Dataset Summary
-This project uses a Steam games dataset collected from the Steam platform.
-The dataset includes information about games such as price, supported platforms,
-playtime, genres, and user-related data.
+## Dataset
+- **File:** `Ecommerce Customers.csv`
 
-## Machine Learning Problem
-The selected problem is a **classification problem**.
-The goal is to determine whether a game is highly rated or not based on its features.
+## Objectives
+The following steps were completed in this lab:
 
-## Target Variable
-The target variable is based on the **Metacritic score**.
-Games with higher scores are considered high rated, while games with lower scores
-are considered low rated.
+- Performed data exploration and visualization
+- Conducted correlation analysis
+- Split the dataset into training and testing sets
+- Trained a Linear Regression model
+- Generated predictions and evaluated model performance using:
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+  - Root Mean Squared Error (RMSE)
 
-## Project Files
-- games.csv: Dataset file
-- steam_games_lab.ipynb: Jupyter Notebook for loading and exploring the data
-- methodology_diagram.png: Methodology diagram
+## Tools and Libraries
+This lab was implemented using the following tools and libraries:
+
+- Python
+- Pandas
+- Seaborn
+- Scikit-learn
