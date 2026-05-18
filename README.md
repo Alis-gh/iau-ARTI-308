@@ -1,4 +1,4 @@
-# Lab2 2 
+# ARTI308 Lab2 
 
 # Steam Games Dataset
 
